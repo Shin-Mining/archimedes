@@ -1,3 +1,8 @@
-h1 {
+.maintitle {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
     color: firebrick;
+    background-color: wheat
 }
